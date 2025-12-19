@@ -50,7 +50,7 @@ CONFIG = {
         'sender': 'docs@more.in',
         'search_term': 'grn',
         'attachment_filter': '',
-        'days_back': 7,
+        'days_back': 20,
         'max_results': 1000
     },
     'sheet': {
