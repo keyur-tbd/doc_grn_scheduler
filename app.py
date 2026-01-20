@@ -50,7 +50,7 @@ CONFIG = {
         'sender': 'docs@more.in',
         'search_term': 'grn',
         'attachment_filter': '',
-        'days_back': 20,
+        'days_back': 3,
         'max_results': 1000
     },
     'sheet': {
@@ -59,7 +59,7 @@ CONFIG = {
         'drive_folder_id': '1C251csI1oOeX_skv7mfqpZB0NbyLLd9d',
         'spreadsheet_id': '16y9DAK2tVHgnZNnPeRoSSPPE2NcspW_qqMF8ZR8OOC0',
         'sheet_range': 'mrgrn',
-        'days_back': 10,
+        'days_back': 3,
         'max_files': 1000
     },
     'workflow_log': {
