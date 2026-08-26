@@ -7,3 +7,4 @@ schedule==1.2.0
 pandas==2.1.4
 requests==2.31.0
 python-dotenv
+supabase>=2.15.0

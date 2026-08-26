@@ -39,3 +39,4 @@ temp/
 # Environment variables
 .env
 .env.local
+.venv/
